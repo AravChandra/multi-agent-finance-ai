@@ -3,3 +3,7 @@ crewai-tools
 python-dotenv
 yfinance
 streamlit
+streamlit==1.57.0
+crewai==0.70.0
+chromadb==0.4.24
+pydantic==1.10.13
