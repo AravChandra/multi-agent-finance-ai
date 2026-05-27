@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="ChatGPT Image May 27, 2026, 05_50_38 PM" src="https://github.com/user-attachments/assets/936ea0eb-2d7a-4f9c-b8ec-33c7f1345ae0" />
+
+
+
 # 📊 AI Trading Agent System
 
 A multi-agent AI trading intelligence system built with **CrewAI + Groq LLMs + Streamlit** that analyzes stock market data and generates structured **BUY / SELL decisions with reasoning and confidence scoring**.
